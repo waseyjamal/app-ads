@@ -1,2 +1,3 @@
-vungle.com, 69cf57b17dbb2c94758d3bb1, DIRECT, c107d686becd2d77
-chartboost.com, 69cfecc2e47303ad02b13b9a, DIRECT
+appodeal.com, 69cf57b17dbb2c94758d3bb1, DIRECT, c107d686becd2d77
+vungle.com, 69d1491f306b8216a8d45100, DIRECT, c107d686becd2d77
+unityads.unity.com, 6077449, DIRECT, 96cabb5fbdde37a7
